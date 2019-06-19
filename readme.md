@@ -38,3 +38,4 @@ Laraspace comes with 3 versions
 ## License
 
 Laraspace is now an open-sourced software licensed under the MIT license.# larapace
+# larapace
